@@ -22,11 +22,11 @@
 
 ## Лабораторна-практична робота №5
 
-[Розширення бекенд-додатку власними сутностями та реалізація REST API](https://github.com/gn4r4/typeorm-express-typescript?tab=readme-ov-file#%D0%BB%D0%B0%D0%B1%D0%BE%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%BD%D0%B0-%D0%BF%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D1%87%D0%BD%D0%B0-%D1%80%D0%BE%D0%B1%D0%BE%D1%82%D0%B0-4)
+[Розширення бекенд-додатку власними сутностями та реалізація REST API](https://github.com/gn4r4/typeorm-express-typescript?tab=readme-ov-file#%D0%BB%D0%B0%D0%B1%D0%BE%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%BD%D0%B0-%D0%BF%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D1%87%D0%BD%D0%B0-%D1%80%D0%BE%D0%B1%D0%BE%D1%82%D0%B0-5)
 
 ## Лабораторна-практична робота №6
 
-[Впровадження сервісного шару, валідації та DTO](https://github.com/gn4r4/typeorm-express-typescript?tab=readme-ov-file#%D0%BB%D0%B0%D0%B1%D0%BE%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%BD%D0%B0-%D0%BF%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D1%87%D0%BD%D0%B0-%D1%80%D0%BE%D0%B1%D0%BE%D1%82%D0%B0-4)
+[Впровадження сервісного шару, валідації та DTO](https://github.com/gn4r4/typeorm-express-typescript?tab=readme-ov-file#%D0%BB%D0%B0%D0%B1%D0%BE%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%BD%D0%B0-%D0%BF%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D1%87%D0%BD%D0%B0-%D1%80%D0%BE%D0%B1%D0%BE%D1%82%D0%B0-6)
 
 ## Лабораторна-практична робота №7
 
@@ -34,7 +34,7 @@
 
 ## Лабораторна-практична робота №8-9
 
-[Full-stack інтеграція: розробка UI на базі професійного бойлерплейту](https://github.com/gn4r4/typeorm-express-typescript?tab=readme-ov-file#%D0%BB%D0%B0%D0%B1%D0%BE%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%BD%D0%B0-%D0%BF%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D1%87%D0%BD%D0%B0-%D1%80%D0%BE%D0%B1%D0%BE%D1%82%D0%B0-4)
+[Full-stack інтеграція: розробка UI на базі професійного бойлерплейту](https://github.com/gn4r4/typeorm-express-typescript?tab=readme-ov-file#%D0%BB%D0%B0%D0%B1%D0%BE%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%BD%D0%B0-%D0%BF%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D1%87%D0%BD%D0%B0-%D1%80%D0%BE%D0%B1%D0%BE%D1%82%D0%B0-8-9)
 
 
 
